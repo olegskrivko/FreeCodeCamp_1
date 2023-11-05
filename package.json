@@ -4,6 +4,7 @@
     "express": "^4.14.0"
   },
   "author": "Olegs Krivko",
+  "description": "A project that does something awesome",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
